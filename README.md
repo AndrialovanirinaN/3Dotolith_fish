@@ -141,9 +141,9 @@ This project is a collaborative effort supported by:
 
 | Organization | Description |
 |--------------|-------------|
-| [**Ifremer**](https://manchemerdunord.ifremer.fr/) | French Research Institute for Exploitation of the Sea<br>*Manche Mer du Nord* |
 | [**ULCO**](https://www.univ-littoral.fr/) | Université du Littoral Côte d'Opale |
 | [**LISIC**](https://www-lisic.univ-littoral.fr/) | Laboratoire d'Informatique Signal et Image<br>de la Côte d'Opale |
+| [**Ifremer**](https://manchemerdunord.ifremer.fr/) | French Research Institute for Exploitation of the Sea<br>*Manche Mer du Nord* |
 
 </div>
 
