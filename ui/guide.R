@@ -14,7 +14,7 @@ tabPanel("Guide",
                      div(class = "col-md-4 text-center",
                          h6("Pélagique"),
                          tags$img(
-                           src = URLencode("habitat/Pélagique.png"),
+                           src = URLencode("habitat/Pélagique.png"),
                            alt = "Pélagique",
                            class = "img-fluid",
                            style = "max-width: 100%; max-height: 200px;"
